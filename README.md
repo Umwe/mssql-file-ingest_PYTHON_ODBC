@@ -41,4 +41,4 @@ set MSSQL_PASSWORD=mypassword
 set MSSQL_ENCRYPT=yes                 # yes/no/auto (default auto for Driver 18)
 set MSSQL_TRUSTSERVERCERT=yes         # yes/no/auto (default auto for Driver 18)
 
-#Run: python loader.py
+# Run: python loader.py
